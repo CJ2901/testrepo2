@@ -4,5 +4,5 @@
 * Batman
 * Aquaman
 * Mujer Maravilla
-* Linterna Verde
+* Linterna Amarilla
 * Robin
